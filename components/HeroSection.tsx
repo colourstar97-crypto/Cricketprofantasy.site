@@ -542,7 +542,7 @@ export default function HeroSection() {
                 textAlign: 'center',
               }}
             >
-              cricketexpertpro.com/play
+              cricketprofantasy.site/play
             </div>
           </div>
 

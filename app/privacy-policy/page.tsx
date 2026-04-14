@@ -72,7 +72,7 @@ export default function PrivacyPolicyPage() {
 
       <h2>6. Children's Privacy</h2>
       <p>Cricket ExpertPro is suitable for players of all ages. We do not knowingly collect personal information from children under the age of 13. Since we do not require account creation, no personal data is collected during gameplay.</p>
-      <p>If you believe we have inadvertently collected information from a child, please contact us immediately at <a href="mailto:privacy@cricketexpertpro.com">privacy@cricketexpertpro.com</a>.</p>
+      <p>If you believe we have inadvertently collected information from a child, please contact us immediately at <a href="mailto:privacy@cricketprofantasy.site">privacy@cricketprofantasy.site</a>.</p>
 
       <hr />
 
@@ -85,7 +85,7 @@ export default function PrivacyPolicyPage() {
         <li><strong>Objection:</strong> Object to certain types of data processing</li>
         <li><strong>Portability:</strong> Receive your data in a portable format</li>
       </ul>
-      <p>To exercise any of these rights, contact us at <a href="mailto:privacy@cricketexpertpro.com">privacy@cricketexpertpro.com</a>.</p>
+      <p>To exercise any of these rights, contact us at <a href="mailto:privacy@cricketprofantasy.site">privacy@cricketprofantasy.site</a>.</p>
 
       <hr />
 
@@ -102,8 +102,8 @@ export default function PrivacyPolicyPage() {
       <h2>10. Contact Us</h2>
       <p>If you have questions about this Privacy Policy, please contact us:</p>
       <ul>
-        <li>Email: <a href="mailto:privacy@cricketexpertpro.com">privacy@cricketexpertpro.com</a></li>
-        <li>Website: <a href="/">cricketexpertpro.com</a></li>
+        <li>Email: <a href="mailto:privacy@cricketprofantasy.site">privacy@cricketprofantasy.site</a></li>
+        <li>Website: <a href="/">cricketprofantasy.site</a></li>
       </ul>
     </LegalLayout>
   )

@@ -82,8 +82,8 @@ export default function DisclaimerPage() {
       <h2>10. Contact Us</h2>
       <p>If you have any questions or concerns about this disclaimer, please reach out to us:</p>
       <ul>
-        <li>Email: <a href="mailto:legal@cricketexpertpro.com">legal@cricketexpertpro.com</a></li>
-        <li>Website: <a href="/">cricketexpertpro.com</a></li>
+        <li>Email: <a href="mailto:legal@cricketprofantasy.site">legal@cricketprofantasy.site</a></li>
+        <li>Website: <a href="/">cricketprofantasy.site</a></li>
       </ul>
     </LegalLayout>
   )

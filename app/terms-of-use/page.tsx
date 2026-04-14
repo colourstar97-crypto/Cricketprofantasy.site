@@ -18,7 +18,7 @@ export default function TermsOfUsePage() {
       </div>
 
       <h2>1. Acceptance of Terms</h2>
-      <p>By accessing and using the Cricket ExpertPro website (cricketexpertpro.com) and its games, you accept and agree to be bound by these Terms of Use and our Privacy Policy. If you do not agree to these terms, please do not use our website.</p>
+      <p>By accessing and using the Cricket ExpertPro website (cricketprofantasy.site) and its games, you accept and agree to be bound by these Terms of Use and our Privacy Policy. If you do not agree to these terms, please do not use our website.</p>
 
       <hr />
 
@@ -95,8 +95,8 @@ export default function TermsOfUsePage() {
       <h2>11. Contact Us</h2>
       <p>For questions about these Terms of Use, contact us at:</p>
       <ul>
-        <li>Email: <a href="mailto:legal@cricketexpertpro.com">legal@cricketexpertpro.com</a></li>
-        <li>Website: <a href="/">cricketexpertpro.com</a></li>
+        <li>Email: <a href="mailto:legal@cricketprofantasy.site">legal@cricketprofantasy.site</a></li>
+        <li>Website: <a href="/">cricketprofantasy.site</a></li>
       </ul>
     </LegalLayout>
   )

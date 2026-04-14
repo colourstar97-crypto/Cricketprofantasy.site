@@ -105,8 +105,8 @@ export default function CookiesPage() {
       <h2>7. Contact Us</h2>
       <p>If you have questions about our use of cookies, please contact us at:</p>
       <ul>
-        <li>Email: <a href="mailto:privacy@cricketexpertpro.com">privacy@cricketexpertpro.com</a></li>
-        <li>Website: <a href="/">cricketexpertpro.com</a></li>
+        <li>Email: <a href="mailto:privacy@cricketprofantasy.site">privacy@cricketprofantasy.site</a></li>
+        <li>Website: <a href="/">cricketprofantasy.site</a></li>
       </ul>
     </LegalLayout>
   )

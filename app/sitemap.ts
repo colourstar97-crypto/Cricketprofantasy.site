@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://cricketexpertpro.com'
+  const baseUrl = 'https://cricketprofantasy.site'
 
   return [
     {

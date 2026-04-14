@@ -203,7 +203,7 @@ export default function GameSection() {
                 textAlign: 'center',
               }}
             >
-              cricketexpertpro.com — Live Game
+              cricketprofantasy.site — Live Game
             </div>
             <div
               style={{
